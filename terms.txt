@@ -1,0 +1,5 @@
+Fitness-Activity-Tracker
+Fitness-Watch
+Smartwatch
+Fitness-Bracelet
+Apple-Watch
