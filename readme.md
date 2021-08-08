@@ -1,4 +1,4 @@
-![Sentiment Analysis Logo](Sentiment Analysis.png)
+![Sentiment Analysis Logo](https://github.com/IbrahimJarrarD/SentAnalysis/blob/main/Sentiment%20Analysis.png?raw=true)
 
 
 # Sentiment Analysis 
