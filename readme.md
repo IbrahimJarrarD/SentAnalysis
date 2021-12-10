@@ -36,7 +36,7 @@ Afterwards you can access the the data with your individual consumer_key, consum
 ## Credits
 
 This software uses the following open source packages:
-** this should be changed later
+
 - [Rapidapi For sentiment analysis](https://rapidapi.com/zyanyatech1/api/sentiment-analysis/)
 - [Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
